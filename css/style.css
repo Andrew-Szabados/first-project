@@ -212,7 +212,7 @@ input[type=checkbox] {
 }
 
 .choose {
-    width: 1320px;
+    width: 1360px;
     position: relative;
     background: url(../img/WhyBackground.png), center/ cover no-repeat;
     background-size: cover;
@@ -316,7 +316,7 @@ input[type=checkbox] {
 }
 
 .book-1 {
-    width: 1320px;
+    width: 1360px;
     position: relative;
     background: url(../img/render-1477041_1280\ 1.png), lightgray 50% / cover no-repeat;
     background-size: cover;
@@ -332,6 +332,7 @@ input[type=checkbox] {
     display: flex;
     flex-direction: column;
     background: #232323E5;
+
 }
 
 .book-1-card-text {
@@ -380,7 +381,7 @@ input[type=checkbox] {
 }
 
 .book-2 {
-    width: 1320px;
+    width: 1360px;
     position: relative;
     background: url(../img/spain-1859434_1280\ 1.png), lightgray 50% / cover no-repeat;
     background-size: cover;
@@ -507,7 +508,7 @@ input[type=checkbox] {
 }
 
 .footer {
-    width: 1320px;
+    width: 1360px;
     background-color: #000;
     height: auto;
     width: 100%;
